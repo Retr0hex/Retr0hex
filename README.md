@@ -9,12 +9,7 @@ Follow:
 
 
     
-•📚 Currently studying at São Lucas;   
-•☕ Just started learning Java;<br/>
-   • 💬 Fluent in english;
-    <br/>
-    <br/>
-    •👤17 years old.<br/>
+Rage
 <br/>
 <br/>
 
