@@ -45,4 +45,4 @@ If i'm not coding, I'm probably creating something with arduino.
 
 ---
 
-<p align="center"><i>“Vitor Souza”</i></p>
+<p align="center"><i>Vitor Souza</i></p>
