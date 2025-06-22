@@ -1,7 +1,7 @@
-<h1 align="center">Vitor Souza</h1>
+<h1 align="center">Self proclaimed developer</h1>
 
 <p align="center">
-  <a href="https://github.com/bbydlux">
+  <a href="https://github.com/retr0hex">
     <img src="https://img.shields.io/github/followers/bbydlux?label=Follow&style=social" alt="GitHub followers"/>
   </a>
 </p>
