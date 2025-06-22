@@ -8,7 +8,7 @@
 
 ---
 
-A software developer with a focus on backend development using **PHP** and **Ruby**. I spend most of my time crafting reliable, maintainable systems — and when there's a break in the action, I like diving into **Java**.
+A software developer with a focus on backend development using **PHP** and **Ruby**. I spend most of my time crafting reliable, maintainable systems. I also like diving into **Java**.
 
 If i'm not coding, I'm probably creating something with arduino.
 
