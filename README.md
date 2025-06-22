@@ -8,15 +8,13 @@
 
 ---
 
-## 👨‍💻 About Me
+A software developer with a focus on backend development using **PHP** and **Ruby**. I spend most of my time crafting reliable, maintainable systems — and when there's a break in the action, I like diving into **Java**.
 
-I'm a backend developer primarily focused on **PHP** and **Ruby**, with a growing interest in **Java** for side projects and learning purposes.
-
-I prefer building tools that are simple, efficient, and offline-ready. Clean code and clarity over cleverness — always.
+If i'm not coding, I'm probably creating something with arduino.
 
 ---
 
-## 🛠️ Tools I Use Daily
+
 
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -31,20 +29,20 @@ I prefer building tools that are simple, efficient, and offline-ready. Clean cod
 
 ---
 
-## 🌐 Connect With Me
+## You can also find me here
 
 <p>
   <a href="https://www.youtube.com/channel/UCShSeONE08BE3c2Vw_F2hlA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://steamcommunity.com/id/wordaddy/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vitorsouzaretr0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/bbydlux" target="_blank">
+  <a href="https://instagram.com/icedrsx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“Writing code like it’s sound design.”</i></p>
+<p align="center"><i>“Vitor Souza”</i></p>
